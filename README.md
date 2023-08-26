@@ -1,7 +1,6 @@
 # WeatherApp React Web Application
 
 <img width="275" alt="image" src="https://github.com/Shubhamkharche3005/weather-app/assets/93247322/b7a52521-6bf5-4d1a-9f44-5358a92b6fc8">
-
 <img width="337" alt="image" src="https://github.com/Shubhamkharche3005/weather-app/assets/93247322/fceabb42-f265-4673-9685-b7edb07981e6">
 <img width="269" alt="image" src="https://github.com/Shubhamkharche3005/weather-app/assets/93247322/05fe2240-1907-45fe-96b3-8db6cbe41899">
 
