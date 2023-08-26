@@ -1,6 +1,7 @@
 # Getting Started with Weather-appp
 
-![image](https://github.com/Shubhamkharche3005/weather-app/assets/93247322/5b96195e-dded-47bc-9e79-bd2b1bb00d02)
+<img width="275" alt="image" src="https://github.com/Shubhamkharche3005/weather-app/assets/93247322/b7a52521-6bf5-4d1a-9f44-5358a92b6fc8">
+
 <img width="337" alt="image" src="https://github.com/Shubhamkharche3005/weather-app/assets/93247322/fceabb42-f265-4673-9685-b7edb07981e6">
 
 
