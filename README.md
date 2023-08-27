@@ -25,3 +25,5 @@ To run the WeatherApp on your local machine, follow these steps:
 
 - npm install
 - npm start
+- install Thunder client Extensions (vs-code)
+ 
